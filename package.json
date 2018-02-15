@@ -22,7 +22,7 @@
   "dependencies": {
     "async": "1.5.2",
     "gulp-util": "3.0.7",
-    "lodash": "4.7.0",
+    "lodash": "4.17.5",
     "request": "2.69.0"
   },
   "homepage": "https://github.com/tobiasc/gulp-locale-online-translator"
